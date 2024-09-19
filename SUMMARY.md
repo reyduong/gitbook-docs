@@ -1,17 +1,12 @@
 # Table of contents
 
-* [Introduction](README.md)
+## 🙌 INTRODUCTION
 
-## Getting Started
+* [Welcome to Column Load Takedown Application !](README.md)
+* [Release Notes](introduction/release-notes/README.md)
+  * [V 1.0.0](introduction/release-notes/v-1.0.0.md)
+
+## 🚀 Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Outputs](getting-started/outputs.md)

@@ -1,10 +1,5 @@
 ---
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -17,12 +12,24 @@ layout:
     visible: true
 ---
 
-# Introduction
+# Welcome to Column Load Takedown Application !
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+The **Column Load Takedown Application (CLTA)** is designed to streamlines early structural analysis by providing engineers with preliminary load take-down assessments from raw Revit models. Ideal for scenarios lacking a full analytical model, it offers a tentative solution to accelerate the evaluation process.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+<figure><img src=".gitbook/assets/Overview.png" alt=""><figcaption><p>Column Load Takedown Application</p></figcaption></figure>
 
-### Jump right in
+### What does it offer?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+* Enables initial load estimations, crucial for early structural analysis.
+* Utilizes raw Revit models to generate close load estimations, providing a reliable starting point.
+* Speeds up the assessment process, allowing engineers to quickly establish a basis for more detailed analysis.
+
+### CLTA Revit Supported Versions
+
+* Revit 2024
+* Revit 2025
+
+### CLTA Rhino/Grasshopper Supported Versions
+
+* Rhinoceros 7 (Grasshopper 1.0.0007)
+* Rhinoceros 8 (Grasshopper 1.0.0008)
